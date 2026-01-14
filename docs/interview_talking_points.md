@@ -1,0 +1,4 @@
+- AI enrichment is separated from core analytics
+- LLMs used only for summarization and recommendations
+- Cost controlled via scheduled Tasks
+- Model choice: snowflake-arctic for reliability
