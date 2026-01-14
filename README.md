@@ -92,5 +92,5 @@ This project demonstrates:
 ---
 
 ## Author
-Your Name  
+Khamar
 Snowflake Data Engineer | Analytics & GenAI Integration
