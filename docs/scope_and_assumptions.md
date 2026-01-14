@@ -1,2 +1,11 @@
-This project assumes customer and product data are already curated and deduplicated.
-The focus is on downstream analytics and GenAI enrichment, which is a common pattern in enterprise Snowflake environments.
+## Scope
+This project focuses on AI-driven customer analytics and enrichment on top of curated Snowflake datasets.
+
+## Assumptions
+- Customer data is already deduplicated
+- Product data is modeled at module grain
+- Upstream ingestion pipelines are out of scope
+
+## Goal
+Demonstrate Snowflake SQL modeling and GenAI integration using Snowflake Cortex.
+
